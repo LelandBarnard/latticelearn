@@ -1,0 +1,14 @@
+name : latticelearn
+
+channels : 
+    - default
+    - conda-forge
+
+dependencies : 
+    - python=3.12
+    - pip=23.3.1
+    - numpy=2.2.5
+    - scikit-learn=1.6.1
+    - pandas=2.2.3
+    - ipykernel=6.25.0
+    - matplotlib=3.10.1
